@@ -20,6 +20,10 @@
 - 🥅 2023 Goals: Learn more about open source
 - ⚡ Fun fact: I love watching movies/tv series and listening to songs
 
+### Spotify Playing 🎧
+
+[<img src="https://novatorem-dhruvjain896.vercel.app/api/spotify" alt="Dhruv Spotify Playing" width="350" />](https://open.spotify.com/user/31e2tgca4sa46fyaplb7nrp7m7eu)
+
 ### Languages and Tools:
 
 <!-- C -->
