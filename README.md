@@ -2,14 +2,14 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.dhruvjain896.com)
-[![website](./img/globe-dark.svg)](https://www.dhruvjain896.com)
+[![website](./img/globe-light.svg)](https://www.dhruvjain896.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.dhruvjain896.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/dhruvjain896)
-[![website](./img/twitter-dark.svg)](https://twitter.com/dhruvjain896)
+[![website](./img/twitter-light.svg)](https://twitter.com/dhruvjain896#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/dhruvjain896#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dhruvjain896)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dhruvjain896)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dhruvjain896#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dhruvjain896#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ## I'm a Student, Developer, and Tech Enthusiast!!
@@ -40,9 +40,6 @@
 <!-- CSS -->
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
-<!-- SASS -->
-<!-- <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /> -->
-
 <!-- JavaScript -->
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
@@ -58,26 +55,14 @@
 <!-- Tableau -->
 <img align="left" alt="Tableau" width="26px" src="./img/tableau-software.svg" style="padding-right:10px;" />
 
-<!-- React -->
-<!-- <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> -->
-
-<!-- Gatsby -->
-<!-- <img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" /> -->
-
-<!-- GraphQL -->
-<!-- <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" /> -->
-
 <!-- Nodejs -->
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 
 <!-- Flask -->
-<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg#gh-dark-mode-only" style="padding-right:10px;" />
 
-<!-- Deno -->
-<!-- <img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" /> -->
-
-<!-- MongoDB -->
-<!-- <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /> -->
+<!-- Flask -->
+<!-- <img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-.svg#gh-dark-mode-only" style="padding-right:10px;" /> -->
 
 <!-- MySQL -->
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
@@ -86,17 +71,18 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <!-- Github -->
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" />
 
 <!-- Github -->
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" />
 
 <!-- Terminal -->
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg#gh-light-mode-only" />
 
 <!-- Terminal -->
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg#gh-dark-mode-only" />
 
+<br />
 <br />
 <br />
 
