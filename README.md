@@ -90,6 +90,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#173](https://github.com/Ayush7-BYTE/DSA/pull/173) in [Ayush7-BYTE/DSA](https://github.com/Ayush7-BYTE/DSA)
+2. ❌ Closed PR [#29](https://github.com/Chirantanbanik/Random_Joke_Generator-Community_Project/pull/29) in [Chirantanbanik/Random_Joke_Generator-Community_Project](https://github.com/Chirantanbanik/Random_Joke_Generator-Community_Project)
+3. 🗣 Commented on [#228](https://github.com/debrajhyper/Topic_Learning_Resources/issues/228) in [debrajhyper/Topic_Learning_Resources](https://github.com/debrajhyper/Topic_Learning_Resources)
+4. 💪 Opened PR [#568](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/568) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+5. 💪 Opened PR [#533](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/533) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
