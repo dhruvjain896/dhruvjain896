@@ -1,8 +1,9 @@
-name: GitHub - Activity - Readme
+name: Update README
 
 on:
   schedule:
-    - cron: "*/30 * * * *" # Runs every 30 minutes.
+    # Runs every 30 minutes
+    - cron: '*/30 * * * *'
 
 jobs:
   build:
@@ -11,9 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@v0.3.6
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "Updated README with recent activity"
-          MAX_LINES: 5
