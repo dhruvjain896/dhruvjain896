@@ -63,7 +63,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 
 <!-- Flask -->
-<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg#gh-light-mode-only" style="padding-right:10px;" />
+<img align="left" alt="Flask" width="26px" src="./img/flask-black-logo.svg#gh-light-mode-only" style="padding-right:10px;" />
 
 <!-- Flask -->
 <img align="left" alt="Flask" width="26px" src="./img/flask-white-logo.svg#gh-dark-mode-only" style="padding-right:10px;" />
