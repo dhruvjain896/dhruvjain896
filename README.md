@@ -50,10 +50,12 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
 <!-- Express -->
-<img align="left" alt="Express" width="26px" src="./img/express-dark.svg#gh-light-mode-only" />
+<img align="left" alt="Express" width="26px" src="https://i.ibb.co/wrfMQcz/express-dark.png#gh-light-mode-only"
+style="padding-right:10px;" />
 
 <!-- Express -->
-<img align="left" alt="Express" width="26px" src="./img/express-light.svg#gh-dark-mode-only" />
+<img align="left" alt="Express" width="26px" src="https://i.ibb.co/6mkRb7Q/express-light.png#gh-dark-mode-only"
+style="padding-right:10px;" />
 
 <!-- Git -->
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -71,13 +73,13 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 
 <!-- Tableau -->
-<img align="left" alt="Tableau" width="26px" src="./img/tableau-software.svg" style="padding-right:10px;" />
+<img align="left" alt="Tableau" width="26px" src="https://i.ibb.co/TRVXL0C/tableau-software.png" style="padding-right:10px;" />
 
 <!-- Flask -->
-<img align="left" alt="Flask" width="26px" src="./img/flask-black-logo.svg#gh-light-mode-only" style="padding-right:10px;" />
+<img align="left" alt="Flask" width="26px" src="https://i.ibb.co/Xxn31xN/flask-black-logo.png#gh-light-mode-only" style="padding-right:10px;" />
 
 <!-- Flask -->
-<img align="left" alt="Flask" width="26px" src="./img/flask-white-logo.svg#gh-dark-mode-only" style="padding-right:10px;" />
+<img align="left" alt="Flask" width="26px" src="https://i.ibb.co/D7V55f3/flask-white-logo.png#gh-dark-mode-only" style="padding-right:10px;" />
 
 <!-- React -->
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
@@ -86,19 +88,19 @@
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 
 <!-- Laravel -->
-<img align="left" alt="Laravel" width="26px" src="./img/laravel.svg" style="padding-right:10px;" />
+<img align="left" alt="Laravel" width="26px" src="https://i.ibb.co/Gs4g3nC/laravel.png" style="padding-right:10px;" />
 
 <!-- Puppet -->
-<img align="left" alt="Puppet" width="26px" src="./img/puppet.svg" style="padding-right:10px;" />
+<img align="left" alt="Puppet" width="26px" src="https://i.ibb.co/FgCrP31/puppet.png" style="padding-right:10px ;" />
 
 <!-- Nagios -->
-<img align="left" alt="Nagios" width="26px" src="./img/nagios.svg" style="padding-right:10px;" />
+<img align="left" alt="Nagios" width="26px" src="https://i.ibb.co/fNXmtxF/nagios.png" style="padding-right:10px;" />
+
+<!-- Jenkins -->
+<img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
 
 <!-- C -->
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-
-<!-- VS Code -->
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <!-- Java -->
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
@@ -106,11 +108,14 @@
 <!-- Angular -->
 <img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
 
-<!-- Terminal -->
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg#gh-light-mode-only" />
+<!-- VS Code -->
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <!-- Terminal -->
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg#gh-dark-mode-only" />
+<img align="left" alt="Terminal" width="26px" src="https://i.ibb.co/0FwTD6T/terminal-light.png#gh-light-mode-only" />
+
+<!-- Terminal -->
+<img align="left" alt="Terminal" width="26px" src="https://i.ibb.co/WDW2BrX/terminal-dark.png#gh-dark-mode-only" />
 
 <br />
 <br />
