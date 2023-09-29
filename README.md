@@ -25,18 +25,14 @@
 [<img src="https://novatorem-dhruvjain896.vercel.app/api/spotify" alt="Dhruv Spotify Playing" width="350" />](https://open.spotify.com/user/31e2tgca4sa46fyaplb7nrp7m7eu)
 
 ### Languages and Tools:
-
-<!-- C -->
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-
 <!-- CPP -->
 <img align="left" alt="CPP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 
+<!-- JavaScript -->
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+
 <!-- Python -->
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-
-<!-- VS Code -->
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <!-- HTML -->
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -44,32 +40,20 @@
 <!-- CSS -->
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
-<!-- JavaScript -->
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
-<!-- Bootstrap -->
-<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-
-<!-- Java -->
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-
-<!-- Angular -->
-<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
-
-<!-- Tableau -->
-<img align="left" alt="Tableau" width="26px" src="./img/tableau-software.svg" style="padding-right:10px;" />
+<!-- MySQL -->
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
 <!-- Nodejs -->
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 
-<!-- Flask -->
-<img align="left" alt="Flask" width="26px" src="./img/flask-black-logo.svg#gh-light-mode-only" style="padding-right:10px;" />
+<!-- MongoDB -->
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
-<!-- Flask -->
-<img align="left" alt="Flask" width="26px" src="./img/flask-white-logo.svg#gh-dark-mode-only" style="padding-right:10px;" />
+<!-- Express -->
+<img align="left" alt="Express" width="26px" src="./img/express-dark.svg#gh-light-mode-only" />
 
-<!-- MySQL -->
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<!-- Express -->
+<img align="left" alt="Express" width="26px" src="./img/express-light.svg#gh-dark-mode-only" />
 
 <!-- Git -->
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -79,6 +63,48 @@
 
 <!-- Github -->
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" />
+
+<!-- Docker -->
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
+
+<!-- Bootstrap -->
+<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
+
+<!-- Tableau -->
+<img align="left" alt="Tableau" width="26px" src="./img/tableau-software.svg" style="padding-right:10px;" />
+
+<!-- Flask -->
+<img align="left" alt="Flask" width="26px" src="./img/flask-black-logo.svg#gh-light-mode-only" style="padding-right:10px;" />
+
+<!-- Flask -->
+<img align="left" alt="Flask" width="26px" src="./img/flask-white-logo.svg#gh-dark-mode-only" style="padding-right:10px;" />
+
+<!-- React -->
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+
+<!-- PHP -->
+<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
+
+<!-- Laravel -->
+<img align="left" alt="Laravel" width="26px" src="./img/laravel.svg" style="padding-right:10px;" />
+
+<!-- Puppet -->
+<img align="left" alt="Puppet" width="26px" src="./img/puppet.svg" style="padding-right:10px;" />
+
+<!-- Nagios -->
+<img align="left" alt="Nagios" width="26px" src="./img/nagios.svg" style="padding-right:10px;" />
+
+<!-- C -->
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+
+<!-- VS Code -->
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+<!-- Java -->
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+
+<!-- Angular -->
+<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
 
 <!-- Terminal -->
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg#gh-light-mode-only" />
