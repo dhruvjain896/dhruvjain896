@@ -1,4 +1,4 @@
-# Hi there <img src="./img/Hi.gif" width="29">, I'm [Dhruv][website]
+# Hi there 🙋‍♂️, I'm [Dhruv][website]
 
 ### Connect with me:
 
