@@ -50,12 +50,10 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
 <!-- Express -->
-<img align="left" alt="Express" width="26px" src="https://i.ibb.co/wrfMQcz/express-dark.png#gh-light-mode-only"
-style="padding-right:10px;" />
+<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/dhruvjain896/dhruvjain896/main/img/express-dark.png#gh-light-mode-only" style="padding-right:10px;" />
 
 <!-- Express -->
-<img align="left" alt="Express" width="26px" src="https://i.ibb.co/6mkRb7Q/express-light.png#gh-dark-mode-only"
-style="padding-right:10px;" />
+<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/dhruvjain896/dhruvjain896/main/img/express-light.png#gh-dark-mode-only" style="padding-right:10px;" />
 
 <!-- Git -->
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -79,10 +77,10 @@ style="padding-right:10px;" />
 <img align="left" alt="Tableau" width="26px" src="https://i.ibb.co/TRVXL0C/tableau-software.png" style="padding-right:10px;" />
 
 <!-- Flask -->
-<img align="left" alt="Flask" width="26px" src="https://i.ibb.co/Xxn31xN/flask-black-logo.png#gh-light-mode-only" style="padding-right:10px;" />
+<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/dhruvjain896/dhruvjain896/main/img/flask-black-logo.png#gh-light-mode-only" style="padding-right:10px;" />
 
 <!-- Flask -->
-<img align="left" alt="Flask" width="26px" src="https://i.ibb.co/D7V55f3/flask-white-logo.png#gh-dark-mode-only" style="padding-right:10px;" />
+<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/dhruvjain896/dhruvjain896/main/img/flask-white-logo.png#gh-dark-mode-only" style="padding-right:10px;" />
 
 <!-- React -->
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
@@ -115,10 +113,10 @@ style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <!-- Terminal -->
-<img align="left" alt="Terminal" width="26px" src="https://i.ibb.co/0FwTD6T/terminal-light.png#gh-light-mode-only" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/dhruvjain896/dhruvjain896/main/img/terminal-light.png#gh-light-mode-only" />
 
 <!-- Terminal -->
-<img align="left" alt="Terminal" width="26px" src="https://i.ibb.co/WDW2BrX/terminal-dark.png#gh-dark-mode-only" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/dhruvjain896/dhruvjain896/main/img/terminal-dark.png#gh-dark-mode-only" />
 
 <br />
 <br />
