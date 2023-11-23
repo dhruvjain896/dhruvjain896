@@ -2,8 +2,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.dhruvjain896.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.dhruvjain896.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://dhruvjain896.github.io/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://dhruvjain896.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/dhruvjain896#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/dhruvjain896#gh-dark-mode-only)
