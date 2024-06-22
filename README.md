@@ -17,7 +17,7 @@
 - 💻 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🪲 I also like solving DSA and CP problems
-- 🥅 2023 Goals: Learn more about open source
+- 🥅 2024 Goals: Learn more about open source
 - ⚡ Fun fact: I love watching movies/tv series and listening to songs
 
 ### Spotify Playing 🎧
