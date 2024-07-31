@@ -12,12 +12,12 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dhruvjain896#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-## I'm a Student, Developer, and Tech Enthusiast!!
+## I'm a Developer, Tech Enthusiast and Music lover!!
 
 - 💻 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🪲 I also like solving DSA and CP problems
-- 🥅 2024 Goals: Learn more about open source
+- 🥅 2025 Goals: Learn more about open source
 - ⚡ Fun fact: I love watching movies/tv series and listening to songs
 
 ### Spotify Playing 🎧
