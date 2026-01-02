@@ -1,4 +1,4 @@
-# Hi there 🙋‍♂️, I'm [Dhruv][website]
+# Hi there 👋, I'm [Dhruv][website]
 
 ### Connect with me:
 
@@ -12,13 +12,12 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dhruvjain896#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-## I'm a Developer, Tech Enthusiast and Music lover!!
+## I'm a DevOps Engineer, Tech Enthusiast and Music lover!!
 
-- 💻 I’m currently learning everything 🤣
+- 💻 Passion for DevOps and automation
 - 👯 I’m looking to collaborate with other developers
-- 🪲 I also like solving DSA and CP problems
-- 🥅 2025 Goals: Learn more about open source
-- ⚡ Fun fact: I love watching movies/tv series and listening to songs
+- 🥅 2026 Goals: Health and Career
+- ⚡ Fun fact: I love F1 and Music Production
 
 ### Spotify Playing 🎧
 
