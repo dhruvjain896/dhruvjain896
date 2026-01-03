@@ -93,7 +93,7 @@
 5. 💪 Opened PR [#533](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/533) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
 <!--END_SECTION:activity-->
 
-[website]: https://dhruvjain896.github.io
+[website]: https://dhruvjain896.netlify.app/
 [twitter]: https://twitter.com/dhruvjain896
 [instagram]: https://instagram.com/dhruvjain896
 [linkedin]: https://linkedin.com/in/dhruvjain896
